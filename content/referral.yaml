@@ -1,0 +1,18 @@
+- id: "referral"
+  web:
+    metaDescription: "Take part in Kin's Referral Program. Enter your information here to get started!"
+    metaTitle: "Referral"
+    metaKeywords: null
+    metaLinkText: "Referral"
+    pathPart: "referral"
+    path: "/referral/"
+    parent: "/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    header_text: "Referral"
