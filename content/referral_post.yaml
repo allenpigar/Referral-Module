@@ -1,146 +1,186 @@
-
-  - id: "friend"
-    web:
-      metaDescription: ""
-      metaTitle: "Referral Friend"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "friend"
-      path: "/referral/friend/"
-      parent: "/referral/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Your Friend Knows"
-      sub_header: "Experience the Kin difference. Enter your address to get a personalized quote."
-      featured_image: "3-f894d53-tlsks9"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "invalid"
-    web:
-      metaDescription: ""
-      metaTitle: "Referral Invalid"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "invalid"
-      path: "/referral/invalid/"
-      parent: "/referral/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Oops! That Link"
-      sub_header: "But you can still get a personalized quote! Enter your address to get started."
-      featured_image: "3-f894d4a-m5h2bz"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "referral-program-faqs"
-    web:
-      metaDescription: "Looking for answers to your frequently asked questions about Kin's Referral Program? This is the place!"
-      metaTitle: "Kin Insurance Referral Program FAQ"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "referral-program-faqs"
-      path: "/referral/referral-program-faqs/"
-      parent: "/referral/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: "Get answers to the most frequently asked questions about Kin Insurance's Referral Program here!"
-      header_text: "Frequently asked questions about the Kin Referral Program"
-      sub_header: null
-      featured_image: "3-f894c87-m7gbw5"
-      is_feature_clipped: "1"
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: "<h2 id=\"whatisthekinreferralprogram\">What is the Kin Referral Program?</h2>\n<p>The Kin referral program is an easy way to help your friends and family get great <a href=\"/home-insurance/\">homeowners insurance</a>. Currently, Kin’s referral program is only available in Florida.</p>\n<h2 id=\"howdoeskinsreferralprogramwork\">How does Kin’s Referral Program work?</h2>\n<p>Joining our referral program is easy. All you have to do is:</p>\n<ol>\n<li>Go to <a href=\"/referral/\">kin.com/referral</a>.</li>\n<li>Enter your information to get your personalized referral link</li>\n<li>Share your referral link with your friends and family.</li>\n</ol>\n<h2 id=\"whatrewardscaniearnforreferringfriendstokin\">What rewards can I earn for referring friends to Kin?</h2>\n<p>A qualified referral can earn you a <strong>$20 Amazon gift card – up to $100</strong>. Currently, Kin’s referral program is only available in Florida.</p>\n<h2 id=\"howmanytimescansomeoneusemyreferrallink\">How many times can someone use my referral link?</h2>\n<p>If you’re eligible for rewards, we offer only one reward per potential customer. So, if one person uses your referral link to get several quotes, you will only receive one gift card.</p>\n<h2 id=\"whocanirefertoearnrewards\">Who can I refer to earn rewards?</h2>\n<p>You can refer anyone you want as long as they live in Floridaand get a quote using a separate and valid:</p>\n<ul>\n<li>Email address</li>\n<li>Phone number.</li>\n<li>Device.</li>\n</ul>\n<h2 id=\"istherealimitonhowmanypeopleicanrefer\">Is there a limit on how many people I can refer?</h2>\n<p>You can refer as many people as you’d like, but rewards are capped at up to 5 people in a calendar year for a total of up to $100 in rewards. Limitations are also subject to state rules and regulations.</p>\n<h2 id=\"howwillireceivemyrewards\">How will I receive my rewards?</h2>\n<p>If you qualify, we’ll email your referral reward approximately 14 days after your friend receives an eligible quote.</p>\n<h2 id=\"doreferralrewardsexpire\">Do referral rewards expire?</h2>\n<p>Referral reward Amazon gift cards do not expire. For more detailed information about how to use your referral rewards, please read <a href=\"https://www.amazon.com/gp/help/customer/display.html?nodeId=GNG9PXYZUMQT72QK\">Amazon’s terms and conditions</a>.</p>\n<h2 id=\"canireceivearewardifidontusemyreferrallink\">Can I receive a reward if I don’t use my referral link?</h2>\n<p>We can only give you a referral reward when someone uses your personal referral link. That’s how we know you’re responsible for spreading the word about Kin!</p>\n<h2 id=\"caniearnarewardforreferringfriendswhohavealreadygottenaquote\">Can I earn a reward for referring friends who have already gotten a quote?</h2>\n<p>Unfortunately, we can’t give you credit for friends who have already received quotes because those friends wouldn’t have been able to use your referral link. That link is what connects you to the referral. Without it, we’d have no way of knowing that you sent a potential customer our way.</p>\n<h2 id=\"howcanitrackmyreferralrewards\">How can I track my referral rewards?</h2>\n<p>Please contact us by emailing support@kin.com to get a list of the referral rewards you have earned.</p>\n<h2 id=\"iwanttorefermyfriendsbutimworriedillmakeamistakehowcanibesureimfollowingyourtermsandconditions\">I want to refer my friends, but I'm worried I'll make a mistake. How can I be sure I'm following your terms and conditions?</h2>\n<p>You should definitely take a look at our referral program’s <a href=\"/referral/terms/\">terms and conditions</a>, but here a few key rules to keep in mind:</p>\n<ul>\n<li>You only earn rewards if you and the person you are referring live in Florida and that person uses your personal referral link.</li>\n<li>That person can only use your personal referral link from a separate and valid device, email address, and phone number.</li>\n<li>You can refer as many people as you like, but rewards are capped at up to $100 ($20 per potential customer) per year.</li>\n</ul>"
-  - id: "self"
-    web:
-      metaDescription: ""
-      metaTitle: "Referral Self"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "self"
-      path: "/referral/self/"
-      parent: "/referral/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: null
-      header_text: "Oops! That Link"
-      sub_header: "You can’t preview your own referral link at this time. Click the button below to get back to referring friends."
-      featured_image: "3-f894d47-p4sl13"
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: ""
-  - id: "terms"
-    web:
-      metaDescription: "Kin Insurance's rules and requirements for participating in our program and earning rewards for referring new users can be found here. "
-      metaTitle: "Referral terms and conditions"
-      metaKeywords: null
-      metaLinkText: ""
-      pathPart: "terms"
-      path: "/referral/terms/"
-      parent: "/referral/"
-      sitemapPriority: -2
-      canonicalTagMode: 1
-      canonicalQueryParamWhitelist: null
-      canonicalTagCustomValue: null
-    meta:
-      sort: null
-      listed: true
-    data:
-      sub_text: "These terms and conditions (“Referral Terms”) govern participation in Kin’s referral rewards program (“Referral Program”). All Participants in the Referral Program are also subject to Kin’s [Terms of Service](/terms/) and [Privacy Policy](/privacy/). Capitalized terms that are not defined have the definitions ascribed to them in Kin’s Terms of Service."
-      header_text: "Referral terms and conditions"
-      sub_header: null
-      featured_image: null
-      is_feature_clipped: null
-      featured_image_alt: null
-      featured_video: null
-      schemamarkup: null
-      jump_nav: null
-      show_related_posts: "1"
-      related_posts: null
-      body: "<h2 id=\"qualifiedreferrals\">Qualified referrals</h2>\n<p>A “Referral” is a quote generated by Kin for a unique individual (a “Referred Customer”) who arrives to Kin’s website by clicking a Referral Program link from another individual (“Referrer”). Only a current Kin policyholder with an active Kin policy can be a Referrer under this program. Referrer and Referred Customer are collectively referred to as “Participants”.</p>\n<p>A “Qualified Referral” is a Referral that is made in accordance with these Referral Terms.</p>\n<p>Participants must each use a unique and valid email address, phone number, and device when receiving quotes. Duplicate or invalid email addresses, phone numbers, or devices used to generate quotes will not be counted as Qualified Referrals.</p>\n<p>A quote generated for a Referred Customer who has received a Kin quote within the past year will not count as a Qualified Referral.</p>\n<p>The Referred Customer does not need to sign any documents or purchase insurance for a Referrer to be eligible for a Referral Reward.</p>\n<h2 id=\"referralrewards\">Referral rewards</h2>\n<p>Qualified referrers will be sent a referral reward (“Referral Reward”) of one Amazon Gift Card with a dollar amount to be determined at the sole discretion of Kin per Qualified Referral. Only Qualified Referrals will be sent a Referral Reward. Referrals generated without the use of the unique Referral Program link do not qualify as a Qualified Referral and thus Referrals not generated with the unique Referral Program link will not be sent a Referral Reward.</p>\n<p>The maximum amount of reward is dependent on state laws and cannot exceed $100 per person. Not available in all states and subject to state laws and regulations. You are responsible for any and all tax liability resulting from Referral Rewards. At this time, Kin’s referral program is only available in Florida.</p>\n<p>Referral Rewards will ordinarily be emailed within 5 days after the Referral receives a quote.</p>\n<h2 id=\"eligibility\">Eligibility</h2>\n<p>Referral Rewards are only available to those who reside in Florida and are obtaining a quote for a Florida policy. Eligibility is limited to individuals only. Kin employees are not eligible to participate in the Referral Program.</p>\n<p>Other limitations may apply. This Referral Program is void where prohibited or restricted by law.</p>\n<h2 id=\"nospam\">No spam</h2>\n<p>You must comply with all applicable “SPAM” laws. For example, emails must be created and distributed in a personal manner and bulk email distribution is strongly discouraged. Any distribution of your referral link that could constitute unsolicited commercial email or “spam” under any applicable law or regulation is expressly prohibited and will be grounds for immediate termination of your referral account and exclusion from the Referral Program.</p>\n<h2 id=\"righttodiscontinueuse\">Right to discontinue use</h2>\n<p>Kin reserves the right to cancel the Referral Program with respect to any Participant if the Participant attempts to use the Kin Referral Program in a questionable manner, breaches any of these Referral Terms, or is in violation of Kin’s Terms of Service, or any law, statute or governmental regulation.</p>\n<h2 id=\"righttocancelprogramorchangeterms\">Right to cancel program or change terms</h2>\n<p>Kin reserves the right to cancel the Referral Program or to change these Referral Terms at any time in its sole discretion, by posting updated Referral Terms here.</p>\n<h2 id=\"additionalterms\">Additional terms</h2>\n<p>By making a Referral, each Participant agrees to defend, indemnify, and otherwise hold Kin and Kin’s respective parents, subsidiaries, affiliated companies, the agents, officers, directors, and/or employees (collectively, the “Released Parties”) harmless from and against any and all liability of any nature whatsoever arising out of or relating to (a) unauthorized human intervention in the Referral Program by or directed by Participant and (b) breaches of the Referral Terms (including Kin’s Terms of Service).</p>\n<p>By making a Referral, each Participant (1) agrees to release each of the Released Parties from any and all liability for any loss, harm, damages, costs, and/or expenses, arising out of participating in this Referral Program, and (2) acknowledges that Kin has not made or is not responsible or liable for any warranty, representation, or guarantee, express or implied, in fact or in law, relative to any Referral Award.</p>\n<p>Kin will not be liable for any damages whatsoever related to or arising from (a) any technical errors that may prevent any Participant from participating in any way; (b) unauthorized human intervention in the Referral Program; and/or (c) errors in the administration of the Referral Program. Participant waives the right to claim any damages whatsoever, including, but not limited to, punitive, consequential, direct, or indirect damages. Participant further agrees that in any cause of action, the Released Parties’ aggregate liability for all claims will be limited to the cost of entering and participating in the Referral Program, and in no event shall the Released Parties be liable for attorneys’ fees.</p>\n<p>Except where prohibited by law, each Participant agrees that any and all disputes, claims, and causes of action arising out of, or connected with, the Referral Program or any incentive provided will be resolved individually, without resort to any form of class action, and exclusively by the appropriate court located in the State of Illinois. All issues and questions concerning the construction, validity, interpretation, and enforceability of these Terms and Conditions, Participant’s rights and obligations, or the rights and obligations of the Sponsor in connection with the Referral Program, will be governed by, and construed in accordance with, the laws of the State of Illinois without giving effect to any choice of law or conflict of law rules (whether of Illinois or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than Illinois.</p>\n<p><strong>Additional questions? Please see our</strong> <a href=\"/referral/referral-program-faqs/\"><strong>Referral Program FAQ page</strong></a><strong>.</strong></p>"
+- id: "/referral/friend"
+  web:
+    metaDescription: ""
+    metaTitle: "Referral Friend"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "friend"
+    path: "/referral/friend/"
+    parent: "/referral/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Your Friend Knows"
+    sub_header: "Experience the Kin difference. Enter your address to get a personalized quote."
+    featured_image: "3-f894d53-tlsks9"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: ""
+- id: "/referral/invalid"
+  web:
+    metaDescription: ""
+    metaTitle: "Referral Invalid"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "invalid"
+    path: "/referral/invalid/"
+    parent: "/referral/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Oops! That Link"
+    sub_header: "But you can still get a personalized quote! Enter your address to get started."
+    featured_image: "3-f894d4a-m5h2bz"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: ""
+- id: "/referral/referral-program-faqs"
+  web:
+    metaDescription: "Looking for answers to your frequently asked questions about Kin's Referral Program? This is the place!"
+    metaTitle: "Kin Insurance Referral Program FAQ"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "referral-program-faqs"
+    path: "/referral/referral-program-faqs/"
+    parent: "/referral/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: "Get answers to the most frequently asked questions about Kin Insurance's Referral Program here!"
+    header_text: "Frequently asked questions about the Kin Referral Program"
+    sub_header: null
+    featured_image: "3-f894c87-m7gbw5"
+    is_feature_clipped: "1"
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: "<h2 id=\"whatisthekinreferralprogram\">What is the Kin Referral Program?</h2>\n<p>The Kin referral program is an easy way to help your friends and family get great <a href=\"/home-insurance/\">homeowners insurance</a>. Currently, Kin’s referral program is only available in Florida.</p>\n<h2 id=\"howdoeskinsreferralprogramwork\">How does Kin’s Referral Program work?</h2>\n<p>Joining our referral program is easy. All you have to do is:</p>\n<ol>\n<li>Go to <a href=\"/referral/\">kin.com/referral</a>.</li>\n<li>Enter your information to get your personalized referral link</li>\n<li>Share your referral link with your friends and family.</li>\n</ol>\n<h2 id=\"whatrewardscaniearnforreferringfriendstokin\">What rewards can I earn for referring friends to Kin?</h2>\n<p>A qualified referral can earn you a <strong>$20 Amazon gift card – up to $100</strong>. Currently, Kin’s referral program is only available in Florida.</p>\n<h2 id=\"howmanytimescansomeoneusemyreferrallink\">How many times can someone use my referral link?</h2>\n<p>If you’re eligible for rewards, we offer only one reward per potential customer. So, if one person uses your referral link to get several quotes, you will only receive one gift card.</p>\n<h2 id=\"whocanirefertoearnrewards\">Who can I refer to earn rewards?</h2>\n<p>You can refer anyone you want as long as they live in Floridaand get a quote using a separate and valid:</p>\n<ul>\n<li>Email address</li>\n<li>Phone number.</li>\n<li>Device.</li>\n</ul>\n<h2 id=\"istherealimitonhowmanypeopleicanrefer\">Is there a limit on how many people I can refer?</h2>\n<p>You can refer as many people as you’d like, but rewards are capped at up to 5 people in a calendar year for a total of up to $100 in rewards. Limitations are also subject to state rules and regulations.</p>\n<h2 id=\"howwillireceivemyrewards\">How will I receive my rewards?</h2>\n<p>If you qualify, we’ll email your referral reward approximately 14 days after your friend receives an eligible quote.</p>\n<h2 id=\"doreferralrewardsexpire\">Do referral rewards expire?</h2>\n<p>Referral reward Amazon gift cards do not expire. For more detailed information about how to use your referral rewards, please read <a href=\"https://www.amazon.com/gp/help/customer/display.html?nodeId=GNG9PXYZUMQT72QK\">Amazon’s terms and conditions</a>.</p>\n<h2 id=\"canireceivearewardifidontusemyreferrallink\">Can I receive a reward if I don’t use my referral link?</h2>\n<p>We can only give you a referral reward when someone uses your personal referral link. That’s how we know you’re responsible for spreading the word about Kin!</p>\n<h2 id=\"caniearnarewardforreferringfriendswhohavealreadygottenaquote\">Can I earn a reward for referring friends who have already gotten a quote?</h2>\n<p>Unfortunately, we can’t give you credit for friends who have already received quotes because those friends wouldn’t have been able to use your referral link. That link is what connects you to the referral. Without it, we’d have no way of knowing that you sent a potential customer our way.</p>\n<h2 id=\"howcanitrackmyreferralrewards\">How can I track my referral rewards?</h2>\n<p>Please contact us by emailing support@kin.com to get a list of the referral rewards you have earned.</p>\n<h2 id=\"iwanttorefermyfriendsbutimworriedillmakeamistakehowcanibesureimfollowingyourtermsandconditions\">I want to refer my friends, but I'm worried I'll make a mistake. How can I be sure I'm following your terms and conditions?</h2>\n<p>You should definitely take a look at our referral program’s <a href=\"/referral/terms/\">terms and conditions</a>, but here a few key rules to keep in mind:</p>\n<ul>\n<li>You only earn rewards if you and the person you are referring live in Florida and that person uses your personal referral link.</li>\n<li>That person can only use your personal referral link from a separate and valid device, email address, and phone number.</li>\n<li>You can refer as many people as you like, but rewards are capped at up to $100 ($20 per potential customer) per year.</li>\n</ul>"
+- id: "/referral/self"
+  web:
+    metaDescription: ""
+    metaTitle: "Referral Self"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "self"
+    path: "/referral/self/"
+    parent: "/referral/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: "Oops! That Link"
+    sub_header: "You can’t preview your own referral link at this time. Click the button below to get back to referring friends."
+    featured_image: "3-f894d47-p4sl13"
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: ""
+- id: "/referral/terms"
+  web:
+    metaDescription: "Kin Insurance's rules and requirements for participating in our program and earning rewards for referring new users can be found here. "
+    metaTitle: "Referral terms and conditions"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "terms"
+    path: "/referral/terms/"
+    parent: "/referral/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: "These terms and conditions (“Referral Terms”) govern participation in Kin’s referral rewards program (“Referral Program”). All Participants in the Referral Program are also subject to Kin’s [Terms of Service](/terms/) and [Privacy Policy](/privacy/). Capitalized terms that are not defined have the definitions ascribed to them in Kin’s Terms of Service."
+    header_text: "Referral terms and conditions"
+    sub_header: null
+    featured_image: null
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: "1"
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: "<h2 id=\"qualifiedreferrals\">Qualified referrals</h2>\n<p>A “Referral” is a quote generated by Kin for a unique individual (a “Referred Customer”) who arrives to Kin’s website by clicking a Referral Program link from another individual (“Referrer”). Only a current Kin policyholder with an active Kin policy can be a Referrer under this program. Referrer and Referred Customer are collectively referred to as “Participants”.</p>\n<p>A “Qualified Referral” is a Referral that is made in accordance with these Referral Terms.</p>\n<p>Participants must each use a unique and valid email address, phone number, and device when receiving quotes. Duplicate or invalid email addresses, phone numbers, or devices used to generate quotes will not be counted as Qualified Referrals.</p>\n<p>A quote generated for a Referred Customer who has received a Kin quote within the past year will not count as a Qualified Referral.</p>\n<p>The Referred Customer does not need to sign any documents or purchase insurance for a Referrer to be eligible for a Referral Reward.</p>\n<h2 id=\"referralrewards\">Referral rewards</h2>\n<p>Qualified referrers will be sent a referral reward (“Referral Reward”) of one Amazon Gift Card with a dollar amount to be determined at the sole discretion of Kin per Qualified Referral. Only Qualified Referrals will be sent a Referral Reward. Referrals generated without the use of the unique Referral Program link do not qualify as a Qualified Referral and thus Referrals not generated with the unique Referral Program link will not be sent a Referral Reward.</p>\n<p>The maximum amount of reward is dependent on state laws and cannot exceed $100 per person. Not available in all states and subject to state laws and regulations. You are responsible for any and all tax liability resulting from Referral Rewards. At this time, Kin’s referral program is only available in Florida.</p>\n<p>Referral Rewards will ordinarily be emailed within 5 days after the Referral receives a quote.</p>\n<h2 id=\"eligibility\">Eligibility</h2>\n<p>Referral Rewards are only available to those who reside in Florida and are obtaining a quote for a Florida policy. Eligibility is limited to individuals only. Kin employees are not eligible to participate in the Referral Program.</p>\n<p>Other limitations may apply. This Referral Program is void where prohibited or restricted by law.</p>\n<h2 id=\"nospam\">No spam</h2>\n<p>You must comply with all applicable “SPAM” laws. For example, emails must be created and distributed in a personal manner and bulk email distribution is strongly discouraged. Any distribution of your referral link that could constitute unsolicited commercial email or “spam” under any applicable law or regulation is expressly prohibited and will be grounds for immediate termination of your referral account and exclusion from the Referral Program.</p>\n<h2 id=\"righttodiscontinueuse\">Right to discontinue use</h2>\n<p>Kin reserves the right to cancel the Referral Program with respect to any Participant if the Participant attempts to use the Kin Referral Program in a questionable manner, breaches any of these Referral Terms, or is in violation of Kin’s Terms of Service, or any law, statute or governmental regulation.</p>\n<h2 id=\"righttocancelprogramorchangeterms\">Right to cancel program or change terms</h2>\n<p>Kin reserves the right to cancel the Referral Program or to change these Referral Terms at any time in its sole discretion, by posting updated Referral Terms here.</p>\n<h2 id=\"additionalterms\">Additional terms</h2>\n<p>By making a Referral, each Participant agrees to defend, indemnify, and otherwise hold Kin and Kin’s respective parents, subsidiaries, affiliated companies, the agents, officers, directors, and/or employees (collectively, the “Released Parties”) harmless from and against any and all liability of any nature whatsoever arising out of or relating to (a) unauthorized human intervention in the Referral Program by or directed by Participant and (b) breaches of the Referral Terms (including Kin’s Terms of Service).</p>\n<p>By making a Referral, each Participant (1) agrees to release each of the Released Parties from any and all liability for any loss, harm, damages, costs, and/or expenses, arising out of participating in this Referral Program, and (2) acknowledges that Kin has not made or is not responsible or liable for any warranty, representation, or guarantee, express or implied, in fact or in law, relative to any Referral Award.</p>\n<p>Kin will not be liable for any damages whatsoever related to or arising from (a) any technical errors that may prevent any Participant from participating in any way; (b) unauthorized human intervention in the Referral Program; and/or (c) errors in the administration of the Referral Program. Participant waives the right to claim any damages whatsoever, including, but not limited to, punitive, consequential, direct, or indirect damages. Participant further agrees that in any cause of action, the Released Parties’ aggregate liability for all claims will be limited to the cost of entering and participating in the Referral Program, and in no event shall the Released Parties be liable for attorneys’ fees.</p>\n<p>Except where prohibited by law, each Participant agrees that any and all disputes, claims, and causes of action arising out of, or connected with, the Referral Program or any incentive provided will be resolved individually, without resort to any form of class action, and exclusively by the appropriate court located in the State of Illinois. All issues and questions concerning the construction, validity, interpretation, and enforceability of these Terms and Conditions, Participant’s rights and obligations, or the rights and obligations of the Sponsor in connection with the Referral Program, will be governed by, and construed in accordance with, the laws of the State of Illinois without giving effect to any choice of law or conflict of law rules (whether of Illinois or any other jurisdiction), which would cause the application of the laws of any jurisdiction other than Illinois.</p>\n<p><strong>Additional questions? Please see our</strong> <a href=\"/referral/referral-program-faqs/\"><strong>Referral Program FAQ page</strong></a><strong>.</strong></p>"
+- id: "/referral/_index"
+  web:
+    metaDescription: "Take part in Kin's Referral Program. Enter your information here to get started!"
+    metaTitle: "Referral"
+    metaKeywords: null
+    metaLinkText: ""
+    pathPart: "_index"
+    path: "/referral/_index/"
+    parent: "/referral/"
+    sitemapPriority: -2
+    canonicalTagMode: 1
+    canonicalQueryParamWhitelist: null
+    canonicalTagCustomValue: null
+  meta:
+    sort: null
+    listed: true
+  data:
+    sub_text: null
+    header_text: null
+    sub_header: null
+    featured_image: null
+    is_feature_clipped: null
+    featured_image_alt: null
+    featured_video: null
+    schemamarkup: null
+    jump_nav: null
+    show_related_posts: null
+    related_posts_1: null
+    related_posts_2: null
+    related_posts_3: null
+    body: ""

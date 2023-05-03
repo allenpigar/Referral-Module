@@ -14,6 +14,13 @@
       sort: 1
       required: true
       relationship: null
+    - name: "body"
+      label: "Body"
+      description: null
+      datatype: "wysiwyg_basic"
+      sort: 1
+      required: true
+      relationship: null
 - description: null
   label: "Referral Post"
   name: "referral_post"
@@ -26,7 +33,7 @@
     - name: "sub_text"
       label: "List Summary"
       description: null
-      datatype: "textarea"
+      datatype: "wysiwyg_basic"
       sort: 1
       required: true
       relationship: null
@@ -83,19 +90,17 @@
     - name: "schemamarkup"
       label: "Schema Markup"
       description: null
-      datatype: "textarea"
+      datatype: "wysiwyg_basic"
       sort: 1
       required: true
       relationship: null
     - name: "jump_nav"
       label: "Jump Nav"
       description: null
-      datatype: "one_to_many"
+      datatype: "wysiwyg_basic"
       sort: 1
-      required: false
+      required: true
       relationship: null
-      settings:
-        list: true
     - name: "show_related_posts"
       label: "Show Related Posts"
       description: null
@@ -108,15 +113,27 @@
         options:
           0: "No"
           1: "Yes"
-    - name: "related_posts"
-      label: "Related Posts"
+    - name: "related_posts_1"
+      label: "Related Posts 1"
       description: null
-      datatype: "one_to_many"
+      datatype: "internal_link"
       sort: 1
-      required: false
+      required: true
       relationship: null
-      settings:
-        list: true
+    - name: "related_posts_2"
+      label: "Related Posts 2"
+      description: null
+      datatype: "internal_link"
+      sort: 1
+      required: true
+      relationship: null
+    - name: "related_posts_3"
+      label: "Related Posts 3"
+      description: null
+      datatype: "internal_link"
+      sort: 1
+      required: true
+      relationship: null
     - name: "body"
       label: "Body"
       description: null
